@@ -5173,6 +5173,12 @@ declare export class TransactionBuilder {
   set_auxiliary_data(auxiliary_data: AuxiliaryData): void;
 
   /**
+   * Set explicit native scripts via a NativeScripts object
+   * @param {NativeScripts} native_scripts
+   */
+  set_native_scripts(native_scripts: NativeScripts): void;
+
+  /**
    * Set metadata using a GeneralTransactionMetadata object
    * It will be set to the existing or new auxiliary data in this builder
    * @param {GeneralTransactionMetadata} metadata

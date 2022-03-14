@@ -1,5 +1,5 @@
 {
-  "name": "cardano-serialization-lib",
+  "name": "@zqlsg/cardano-serialization-lib",
   "version": "10.0.4",
   "description": "(De)serialization functions for the Cardano blockchain along with related utility functions",
   "scripts": {
@@ -26,11 +26,11 @@
       "pre-push": "npm run rust:test && npm run rust:build-nodejs"
     }
   },
-  "author": "EMURGO",
+  "author": "siegfried",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emurgo/cardano-serialization-lib.git"
+    "url": "git+https://github.com/siegfried/cardano-serialization-lib.git"
   },
   "dependencies": {},
   "devDependencies": {
