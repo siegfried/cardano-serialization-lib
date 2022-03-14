@@ -26,11 +26,11 @@
       "pre-push": "npm run rust:test && npm run rust:build-nodejs"
     }
   },
-  "author": "EMURGO",
+  "author": "siegfried",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emurgo/cardano-serialization-lib.git"
+    "url": "git+https://github.com/siegfried/cardano-serialization-lib.git"
   },
   "dependencies": {},
   "devDependencies": {
