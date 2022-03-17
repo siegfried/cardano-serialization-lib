@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Emurgo/cardano-serialization-lib.git"
+    "url": "git+https://github.com/ADAOcommunity/cardano-serialization-lib"
   },
   "dependencies": {},
   "devDependencies": {

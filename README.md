@@ -4,9 +4,9 @@ This is a library, written in Rust, for serialization & deserialization of data 
 
 ##### NPM packages
 
-- [NodeJS WASM package](https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-nodejs)
-- [Browser (chrome/firefox) WASM package](https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-browser)
-- [Browser (pure JS - no WASM) ASM.js package](https://www.npmjs.com/package/@emurgo/cardano-serialization-lib-asmjs)
+- [NodeJS WASM package](https://www.npmjs.com/package/@adaocommunity/cardano-serialization-lib-nodejs)
+- [Browser (chrome/firefox) WASM package](https://www.npmjs.com/package/@adaocommunity/cardano-serialization-lib-browser)
+- [Browser (pure JS - no WASM) ASM.js package](https://www.npmjs.com/package/@adaocommunity/cardano-serialization-lib-asmjs)
 
 ##### Rust crates
 
